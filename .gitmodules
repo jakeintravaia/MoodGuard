@@ -1,0 +1,12 @@
+[submodule "MoodGuard-Server"]
+	path = MoodGuard-Server
+	url = https://github.com/jakeintravaia/MoodGuard-Server
+[submodule "MoodGuard-Extension"]
+	path = MoodGuard-Extension
+	url = https://github.com/jakeintravaia/MoodGuard-Extension
+[submodule "MoodGuard-Training"]
+	path = MoodGuard-Training
+	url = https://github.com/jakeintravaia/MoodGuard-Training
+[submodule "MoodGuard-TestPage"]
+	path = MoodGuard-TestPage
+	url = https://github.com/jakeintravaia/MoodGuard-TestPage
